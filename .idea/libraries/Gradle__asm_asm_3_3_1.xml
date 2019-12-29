@@ -2,6 +2,7 @@
   <library name="Gradle: asm:asm:3.3.1">
     <CLASSES>
       <root url="jar://C:/Program Files/gradle-2.13-bin/gradle-2.13/bin/caches/modules-2/files-2.1/asm/asm/3.3.1/1d5f20b4ea675e6fab6ab79f1cd60ec268ddc015/asm-3.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/asm/asm/3.3.1/1d5f20b4ea675e6fab6ab79f1cd60ec268ddc015/asm-3.3.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

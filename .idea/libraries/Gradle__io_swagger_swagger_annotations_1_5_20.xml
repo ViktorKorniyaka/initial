@@ -2,10 +2,12 @@
   <library name="Gradle: io.swagger:swagger-annotations:1.5.20">
     <CLASSES>
       <root url="jar://C:/Program Files/gradle-2.13-bin/gradle-2.13/bin/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.20/16051f93ce11ca489a5313775d825f82fcc2cd6c/swagger-annotations-1.5.20.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.20/16051f93ce11ca489a5313775d825f82fcc2cd6c/swagger-annotations-1.5.20.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://C:/Program Files/gradle-2.13-bin/gradle-2.13/bin/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.20/fff338e626738539b51ab0eb747f5fd4bdaf4d71/swagger-annotations-1.5.20-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.20/fff338e626738539b51ab0eb747f5fd4bdaf4d71/swagger-annotations-1.5.20-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

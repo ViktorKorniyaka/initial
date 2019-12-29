@@ -2,10 +2,12 @@
   <library name="Gradle: io.micrometer:micrometer-core:1.3.1">
     <CLASSES>
       <root url="jar://C:/Program Files/gradle-2.13-bin/gradle-2.13/bin/caches/modules-2/files-2.1/io.micrometer/micrometer-core/1.3.1/963bca3d978690d8202c2ad762165c8610ccc169/micrometer-core-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-core/1.3.1/963bca3d978690d8202c2ad762165c8610ccc169/micrometer-core-1.3.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://C:/Program Files/gradle-2.13-bin/gradle-2.13/bin/caches/modules-2/files-2.1/io.micrometer/micrometer-core/1.3.1/95d39c11ebb36e36a6e3f1b5e563fe7b1cc1979/micrometer-core-1.3.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-core/1.3.1/95d39c11ebb36e36a6e3f1b5e563fe7b1cc1979/micrometer-core-1.3.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
