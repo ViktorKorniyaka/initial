@@ -19,11 +19,14 @@ COPY build/libs/gs-spring-boot-0.1.0.jar ./
 #ADD build /initial
 #RUN gradle build
 
-#RUN cd /initial
-#CMD gradle build
+RUN cd /initial
+CMD gradle build
 #RUN gradle build
 EXPOSE 8080
 #RUN cd /initial
+CMD chmod +x gradlew
+RUN gradle build --stacktrace
+
 CMD java -jar gs-spring-boot-0.1.0.jar
 #ENTRYPOINT ["java","-jar","/initial/build/libs/gs-spring-boot-0.1.0.jar"]
 

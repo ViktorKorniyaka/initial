@@ -23,10 +23,16 @@ bootJar {
     version =  '0.1.0'
 }
 
-rootProject.name= 'initial'
-repositories {
-    mavenCentral()
-    jcenter()
+//rootProject.name= 'initial'
+//repositories {
+//    mavenCentral()
+//    jcenter()
+//}
+allprojects {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
 }
 
 sourceCompatibility = 1.8
